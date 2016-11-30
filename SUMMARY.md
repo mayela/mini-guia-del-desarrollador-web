@@ -1,3 +1,3 @@
-# Table of content
+# Tabla de contenido
 
-* [First Chapter](chapter1.md)
+* [HTML](chapter1.md)
